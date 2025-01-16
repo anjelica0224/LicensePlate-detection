@@ -4,8 +4,7 @@ Object detection for license-plates :
 #### GroundedDINO.ipynb
 Detects and annotates license plates in images using GroundingDINO, a pre-trained object detection model. Images are processed with OpenCV, and detections are filtered based on confidence thresholds. The results, including bounding boxes are visualized and annotated using Supervision and plotted with Matplotlib. 
 
-<img width="838" alt="image" src="https://github.com/user-attachments/assets/0e11db70-e2d3-4665-b494-4e29e3755701" />
-
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/885871f1-83fd-4a90-b31b-e1d90cbf60a5" />
 
 #### autodistill.ipynb
 license plate detection system using YOLOv8 - 
